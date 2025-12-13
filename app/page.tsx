@@ -28,7 +28,7 @@ export default function HomePage() {
           <div className="bg-gray-800 p-4 rounded-lg">
             <h3 className="font-semibold text-lg">Objectif du jeu</h3>
             <p className="mt-3 text-gray-300">
-              "Les joueurs doivent d&eacute;couvrir qui sont les Espions et, si inclus, Monsieur Blanc,
+              Les joueurs doivent découvrir qui sont les Espions et, si inclus, Monsieur Blanc,
               tout en essayant de ne pas se faire démasquer.
             </p>
           </div>
@@ -42,10 +42,10 @@ export default function HomePage() {
                 tandis que les <strong>Espions</strong> ont un mot légèrement différent.
               </p>
               <p>
-                <strong>Monsieur Blanc</strong>, s'il est inclus, ne reçoit aucun mot et doit improviser.
+                <strong>Monsieur Blanc</strong>, s&apos;il est inclus, ne reçoit aucun mot et doit improviser.
               </p>
               <p className="text-sm text-gray-400">
-                (Par exemple : "pomme" pour les Civils et "poire" pour les Espions)
+                (Par exemple : &quot;pomme&quot; pour les Civils et &quot;poire&quot; pour les Espions)
               </p>
             </div>
           </div>
@@ -83,13 +83,13 @@ export default function HomePage() {
             <h3 className="font-semibold text-lg">Conditions de victoire</h3>
             <div className="mt-3 text-gray-300 space-y-2">
               <p>
-                <strong>Les Civils gagnent</strong> si tous les Espions (et Monsieur Blanc, s'il est inclus) sont éliminés.
+                <strong>Les Civils gagnent</strong> si tous les Espions (et Monsieur Blanc, s&apos;il est inclus) sont éliminés.
               </p>
               <p>
-                <strong>Les Espions gagnent</strong> s'ils sont en majorité ou si les Civils ne peuvent plus les identifier.
+                <strong>Les Espions gagnent</strong> s&apos;ils sont en majorité ou si les Civils ne peuvent plus les identifier.
               </p>
               <p>
-                <strong>Monsieur Blanc gagne</strong> s'il reste parmi les trois derniers joueurs sans être démasqué.
+                <strong>Monsieur Blanc gagne</strong> s&apos;il reste parmi les trois derniers joueurs sans être démasqué.
               </p>
             </div>
           </div>

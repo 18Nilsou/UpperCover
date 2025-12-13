@@ -125,7 +125,7 @@ export default function GamePage() {
               {players[currentPlayer].role === 'mrwhite' ? (
                 <div>
                   <p className="text-xl font-bold text-red-400 mb-4">MONSIEUR BLANC</p>
-                  <p className="text-gray-400">Vous n'avez pas de mot. Vous devez deviner de quoi les autres parlent !</p>
+                  <p className="text-gray-400">Vous n&apos;avez pas de mot. Vous devez deviner de quoi les autres parlent !</p>
                 </div>
               ) : (
                 <div>
