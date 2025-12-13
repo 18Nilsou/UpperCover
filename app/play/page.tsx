@@ -26,7 +26,7 @@ export default function PlayPage() {
             href="/"
             className="inline-block bg-white text-black px-8 py-4 rounded-lg text-xl font-semibold hover:bg-gray-200 transition-colors"
           >
-            Retour à l'accueil
+            Retour à l&apos;accueil
           </Link>
         </div>
       </div>

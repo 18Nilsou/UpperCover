@@ -69,8 +69,8 @@ export default function HomePage() {
             <h3 className="font-semibold text-lg">Accusations et éliminations</h3>
             <div className="mt-3 text-gray-300 space-y-2">
               <p>
-                À la fin de chaque tour, les joueurs votent pour éliminer un joueur qu'ils
-                soupçonnent d'être un Espion ou Monsieur Blanc.
+                À la fin de chaque tour, les joueurs votent pour éliminer un joueur qu&apos;ils
+                soupçonnent d&apos;être un Espion ou Monsieur Blanc.
               </p>
               <p>
                 Le joueur avec le plus de votes est éliminé et révèle son rôle.
