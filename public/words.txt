@@ -1145,7 +1145,6 @@ tramway, rer
 fusée, navette
 sous-marin, bathyscaphe
 taxi, uber
-van, minivan
 tracteur, moissonneuse
 chaise, banc
 table, planche
