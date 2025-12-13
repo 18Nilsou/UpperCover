@@ -1,0 +1,1199 @@
+pomme,poire
+chat,chien
+café,thé
+pain,baguette
+football,rugby
+guitare,piano
+soleil,lune
+mer,océan
+rouge,rose
+hiver,automne
+voiture,moto
+livre,magazine
+ordinateur,tablette
+chaise,fauteuil
+riz,pâtes
+fromage,beurre
+avion,hélicoptère
+tennis,badminton
+lion,tigre
+montagne,colline
+chocolat,cacao
+pizza,burger
+vélo,trottinette
+rose,tulipe
+dentiste,médecin
+professeur,enseignant
+cinéma,théâtre
+restaurant,café
+hôtel,auberge
+carotte,navet
+fraise,framboise
+banane,ananas
+orange,clémentine
+raisin,cerise
+tomate,poivron
+concombre,courgette
+oignon,ail
+poulet,dinde
+boeuf,veau
+porc,jambon
+saumon,thon
+crevette,crabe
+lait,yaourt
+eau,jus
+vin,bière
+soda,limonade
+short,bermuda
+pull,gilet
+chaussette,collant
+basket,tennis
+botte,chaussure
+casquette,chapeau
+écharpe,foulard
+gant,moufle
+pantalon,jean
+chemise,polo
+robe,jupe
+maillot,bikini
+pyjama,nuisette
+sac,valise
+montre,horloge
+bague,collier
+boucle,bracelet
+lunette,monocle
+parapluie,parasol
+clé,cadenas
+porte,fenêtre
+mur,cloison
+toit,plafond
+escalier,ascenseur
+balcon,terrasse
+jardin,cour
+garage,parking
+cave,grenier
+salon,séjour
+chambre,dortoir
+cuisine,office
+salle,pièce
+bureau,cabinet
+école,collège
+université,faculté
+bibliothèque,librairie
+musée,galerie
+parc,square
+stade,arène
+piscine,bassin
+plage,côte
+forêt,bois
+rivière,fleuve
+lac,étang
+désert,dune
+ville,cité
+village,hameau
+rue,avenue
+route,chemin
+pont,viaduc
+tunnel,passage
+gare,station
+port,quai
+aéroport,aérodrome
+bus,car
+train,métro
+taxi,uber
+camion,fourgon
+bateau,navire
+yacht,voilier
+kayak,canoë
+ski,snowboard
+patin,roller
+surf,planche
+natation,plongée
+course,sprint
+saut,bond
+lancer,jet
+combat,lutte
+boxe,karaté
+judo,taekwondo
+yoga,pilates
+danse,ballet
+chant,opéra
+violon,violoncelle
+batterie,percussion
+flûte,clarinette
+trompette,trombone
+saxophone,cor
+harpe,lyre
+tambour,cymbale
+micro,enceinte
+télévision,écran
+radio,podcast
+journal,quotidien
+stylo,crayon
+gomme,effaceur
+règle,équerre
+compas,rapporteur
+cahier,carnet
+feuille,papier
+enveloppe,timbre
+lettre,courrier
+carte,postale
+poste,messagerie
+téléphone,portable
+message,sms
+email,courriel
+photo,image
+vidéo,film
+dessin,croquis
+peinture,aquarelle
+sculpture,statue
+poterie,céramique
+vase,pot
+bouquet,composition
+arbre,arbuste
+fleur,pétale
+feuille,branche
+racine,tige
+fruit,légume
+graine,noyau
+herbe,gazon
+mousse,lichen
+champignon,truffe
+abeille,guêpe
+papillon,libellule
+fourmi,termite
+mouche,moustique
+araignée,scorpion
+serpent,lézard
+grenouille,crapaud
+tortue,carapace
+oiseau,volatile
+aigle,faucon
+corbeau,pie
+pigeon,colombe
+canard,oie
+poule,coq
+lapin,lièvre
+souris,rat
+écureuil,tamia
+renard,loup
+ours,grizzly
+éléphant,mammouth
+girafe,okapi
+zèbre,âne
+cheval,poney
+vache,taureau
+mouton,brebis
+chèvre,bouc
+cochon,sanglier
+singe,gorille
+koala,panda
+kangourou,wallaby
+dauphin,orque
+baleine,cachalot
+requin,raie
+pieuvre,calmar
+méduse,anémone
+étoile,oursin
+corail,récif
+algue,varech
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+pomme, poire
+chat, tigre
+chien, loup
+voiture, moto
+avion, helicoptere
+train, metro
+ordinateur, tablette
+telephone, radio
+soleil, etoile
+lune, planete
+mer, ocean
+montagne, colline
+riviere, lac
+arbre, buisson
+fleur, plante
+fromage, yaourt
+pain, gateau
+eau, jus
+feu, braise
+vent, tempete
+football, rugby
+tennis, padel
+basket, handball
+velo, trottinette
+ski, snowboard
+film, cinema
+serie, documentaire
+musique, chanson
+livre, magazine
+journal, blog
+rouge, rose
+bleu, violet
+vert, turquoise
+jaune, orange
+noir, gris
+blanc, beige
+rapide, vite
+lent, mou
+chaud, brulant
+froid, glacial
+professeur, instituteur
+eleve, etudiant
+docteur, chirurgien
+infirmier, aide-soignant
+policier, gendarme
+pompier, secouriste
+ingenieur, developpeur
+artiste, peintre
+acteur, realisateur
+musicien, chanteur
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+poisson, thon
+requin, dauphin
+bus, minibus
+camion, semi-remorque
+bateau, navire
+scooter, vespa
+tramway, rer
+fusée, navette
+sous-marin, bathyscaphe
+taxi, uber
+van, minivan
+tracteur, moissonneuse
+chaise, banc
+table, planche
+canape, sofa
+lit, matelas
+armoire, penderie
+bureau, secretaire
+etagere, bibliotheque
+tabouret, escabeau
+fauteuil, rocking-chair
+commode, coffre
+pluie, averse
+neige, blizzard
+orage, tonnerre
+brouillard, brume
+vent, courant
+cyclone, ouragan
+tempete, bourrasque
+secheresse, canicule
+grele, grison
+verglas, givre
+cafe, espresso
+the, infusion
+chocolat, cacao
+lait, fromage
+biere, cidre
+vin, champagne
+jus, nectar
+soda, cola
+smoothie, milkshake
+cocktail, mocktail
+banane, framboise
+orange, mandarine
+fraise, myrtille
+abricot, nectarine
+peche, brugnon
+cerise, groseille
+ananas, papaye
+mangue, fruit
+citron, lime
+kiwi, melon
+cheval, ane
+vache, taureau
+mouton, chevre
+cochon, sanglier
+lapin, lievre
+poule, dinde
+canard, oie
+oiseau, aigle
+saumon, thon
+requin, dauphin

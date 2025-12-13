@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #f9f9f9; /* Fond gris très clair pour un contraste doux */
+  color: #333333; /* Texte gris foncé pour une meilleure lisibilité */
+  font-family: 'Arial', sans-serif; /* Police simple et lisible */
+}
+
+h1, h2, h3 {
+  color: #ffffff; /* Titres en gris très foncé pour un contraste subtil */
+  font-weight: bold;
+}
+
+a {
+  color: #007acc; /* Bleu simple pour les liens */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: #ffffff; /* Boutons blancs */
+  color: #ffffff; /* Texte gris foncé pour contraste */
+  border: 1px solid #cccccc; /* Bordure discrète */
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+button:hover {
+  background-color: #f0f0f0; /* Légèrement plus foncé au survol */
+  transform: scale(1.05); /* Zoom léger au survol */
+}
+
+.card {
+  background-color: #f9f9f9; /* Fond très clair pour les cartes */
+  border: 1px solid #e0e0e0; /* Bordure discrète */
+  border-radius: 0.25rem;
+  padding: 1rem;
+}
