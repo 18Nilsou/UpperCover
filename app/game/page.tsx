@@ -149,6 +149,11 @@ export default function GamePage() {
           </div>
         )}
       </div>
+      <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 bg-gray-800 text-gray-300 p-4 rounded-lg shadow-lg max-w-md w-full">
+        <p className="text-sm">
+          Les joueurs doivent d&eacute;couvrir qui sont les Espions et, si inclus, Monsieur Blanc...
+        </p>
+      </div>
     </div>
   );
 }

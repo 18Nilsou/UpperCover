@@ -20,7 +20,7 @@ export default function PlayPage() {
         </div>
 
         <div className="space-y-4">
-          <p className="text-xl text-gray-400">Bonne chance !</p>
+          <p className="text-xl text-gray-400">"Bonne chance!"</p>
           
           <Link
             href="/"

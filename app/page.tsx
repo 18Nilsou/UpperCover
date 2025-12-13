@@ -28,7 +28,7 @@ export default function HomePage() {
           <div className="bg-gray-800 p-4 rounded-lg">
             <h3 className="font-semibold text-lg">Objectif du jeu</h3>
             <p className="mt-3 text-gray-300">
-              Les joueurs doivent découvrir qui sont les Espions et, si inclus, Monsieur Blanc,
+              "Les joueurs doivent d&eacute;couvrir qui sont les Espions et, si inclus, Monsieur Blanc,
               tout en essayant de ne pas se faire démasquer.
             </p>
           </div>

@@ -41,7 +41,9 @@ export default function SetupPage() {
   return (
     <div className="min-h-screen bg-gray-900 text-white p-6 flex items-center justify-center">
       <div className="max-w-md w-full bg-gray-800 p-8 rounded-lg">
-        <h1 className="text-3xl font-bold text-center mb-8">Configuration de la partie</h1>
+        <h1 className="text-3xl font-bold text-center mb-8">
+          "Configuration de la partie"
+        </h1>
 
         {/* Player Count */}
         <div className="mb-6">
