@@ -116,28 +116,18 @@ combat,lutte
 boxe,karaté
 judo,taekwondo
 yoga,pilates
-danse,ballet
-chant,opéra
-violon,violoncelle
 batterie,percussion
-flûte,clarinette
-trompette,trombone
-saxophone,cor
 harpe,lyre
 tambour,cymbale
 micro,enceinte
 télévision,écran
 radio,podcast
-journal,quotidien
 stylo,crayon
 gomme,effaceur
 règle,équerre
 compas,rapporteur
-cahier,carnet
-feuille,papier
 enveloppe,timbre
 lettre,courrier
-carte,postale
 poste,messagerie
 téléphone,portable
 message,sms
@@ -179,7 +169,6 @@ souris,rat
 renard,loup
 ours,grizzly
 éléphant,mammouth
-girafe,okapi
 zèbre,âne
 cheval,poney
 vache,taureau
@@ -197,1002 +186,422 @@ méduse,anémone
 étoile,oursin
 corail,récif
 algue,varech
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-pomme, poire
-chat, tigre
-chien, loup
-voiture, moto
-avion, helicoptere
-train, metro
-ordinateur, tablette
-telephone, radio
-soleil, etoile
-lune, planete
-mer, ocean
-montagne, colline
-riviere, lac
-arbre, buisson
-fleur, plante
-fromage, yaourt
-pain, gateau
-eau, jus
-feu, braise
-vent, tempete
-football, rugby
-tennis, padel
-basket, handball
-velo, trottinette
-ski, snowboard
-film, cinema
-serie, documentaire
-musique, chanson
-livre, magazine
-journal, blog
-rouge, rose
-bleu, violet
-vert, turquoise
-jaune, orange
-noir, gris
-blanc, beige
-rapide, vite
-lent, mou
-chaud, brulant
-froid, glacial
-professeur, instituteur
-eleve, etudiant
-docteur, chirurgien
-infirmier, aide-soignant
-policier, gendarme
-pompier, secouriste
-ingenieur, developpeur
-artiste, peintre
-acteur, realisateur
-musicien, chanteur
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-van, minivan
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-poisson, thon
-requin, dauphin
-bus, minibus
-camion, semi-remorque
-bateau, navire
-scooter, vespa
-tramway, rer
-fusée, navette
-sous-marin, bathyscaphe
-taxi, uber
-tracteur, moissonneuse
-chaise, banc
-table, planche
-canape, sofa
-lit, matelas
-armoire, penderie
-bureau, secretaire
-etagere, bibliotheque
-tabouret, escabeau
-fauteuil, rocking-chair
-commode, coffre
-pluie, averse
-neige, blizzard
-orage, tonnerre
-brouillard, brume
-vent, courant
-cyclone, ouragan
-tempete, bourrasque
-secheresse, canicule
-grele, grison
-verglas, givre
-cafe, espresso
-the, infusion
-chocolat, cacao
-lait, fromage
-biere, cidre
-vin, champagne
-jus, nectar
-soda, cola
-smoothie, milkshake
-cocktail, mocktail
-banane, framboise
-orange, mandarine
-fraise, myrtille
-abricot, nectarine
-peche, brugnon
-cerise, groseille
-ananas, papaye
-mangue, fruit
-citron, lime
-kiwi, melon
-cheval, ane
-vache, taureau
-mouton, chevre
-cochon, sanglier
-lapin, lievre
-poule, dinde
-canard, oie
-oiseau, aigle
-saumon, thon
-requin, dauphin
+banane,framboise
+orange,mandarine
+fraise,myrtille
+abricot,nectarine
+pêche,brugnon
+cerise,groseille
+ananas,papaye
+mangue,fruit
+citron,lime
+kiwi,melon
+tramway,rer
+fusée,navette
+tracteur,moissonneuse
+canapé,sofa
+lit,matelas
+armoire,penderie
+bureau,secrétaire
+étagère,bibliothèque
+tabouret,escabeau
+fauteuil,rocking-chair
+commode,coffre
+pluie,averse
+neige,blizzard
+orage,tonnerre
+brouillard,brume
+vent,courant
+cyclone,ouragan
+sécheresse,canicule
+grêle,grison
+verglas,givre
+napoléon bonaparte,alexandre le grand
+cléopâtre vii,néfertiti
+jules césar,auguste
+jeanne d'arc,marie curie
+louis xiv,louis xvi
+christophe colomb,fernand de magellan
+neil armstrong,youri gagarine
+isaac newton,albert einstein
+sigmund freud,carl jung
+platon,aristote
+socrate,pythagore
+homère,virgile
+dante alighieri,william shakespeare
+molière,pierre corneille
+voltaire,jean-jacques rousseau
+naples,venise
+paris,lyon
+londres,manchester
+berlin,munich
+madrid,barcelone
+rome,milan
+athènes,spartes
+istanbul,ankara
+moscou,saint-petersbourg
+pekin,shanghai
+tokyo,osaka
+sydney,melbourne
+new-york,los-angeles
+chicago,miami
+rio,sao-paulo
+cape-town,le-caire
+nairobi,dakar
+marrakech,alger
+casablanca,tunis
+bangkok,hanoi
+delhi,mumbai
+karachi,islamabad
+teheran,bagdad
+kabul,damas
+jerusalem,la-mecque
+bruxelles,vienne
+zurich,geneve
+stockholm,oslo
+copenhague,helsinki
+prague,varsovie
+budapest,bratislava
+belgrade,sarajevo
+sofia,bucarest
+athens,crete
+nike,adidas
+puma,reebok
+apple,samsung
+huawei,xiaomi
+sony,panasonic
+lg,tcl
+philips,sharp
+bosch,siemens
+ikea,conforama
+leroy,merlin
+castorama,brico
+carrefour,leclerc
+auchan,intermarché
+monoprix,casino
+decathlon,go-sport
+fnac,darty
+amazon,ebay
+uber,lyft
+tesla,ford
+bmw,audi
+mercedes,volkswagen
+peugeot,renault
+citroën,fiat
+ferrari,lamborghini
+porsche,maserati
+rolls-royce,bentley
+bugatti,koenigsegg
+mcdonalds,burger-king
+kfc,subway
+starbucks,costa
+pizza-hut,dominos
+nintendo,playstation
+xbox,atari
+sega,capcom
+blizzard,ea
+ubisoft,activision
+netflix,disney
+hbo,amazon-prime
+spotify,deezer
+instagram,tiktok
+snapchat,facebook
+twitter,linkedin
+whatsapp,telegram
+signal,viber
+zoom,skype
+leonardo dicaprio,brad pitt
+meryl streep,julia roberts
+elvis presley,michael jackson
+marilyn monroe,audrey hepburn
+walt disney,steve jobs
+harry potter,hermione granger
+frodo baggins,gandalf
+luke skywalker,darth vader
+sherlock holmes,dr watson
+batman,joker
+inception,interstellar
+avatar,titanic
+star wars,star trek
+breaking bad,game of thrones
+friends,how i met your mother
+rick and morty,bojack horseman
+mickey mouse,donald duck
+spongebob squarepants,pikachu
+naruto,son goku
+coca-cola,pepsi
+bouteille,verre
+assiette,bol
+fourchette,couteau
+chaussure,basket
+chapeau,écharpe
+pantalon,chemise
+robe,jupe
+pyjama,peignoir
+bague,collier
+boucle d'oreille,bracelet
+fenêtre,mur
+escalier,ascenseur
+balcon,terrasse
+garage,parking
+cave,grenier
+salon,chambre
+cuisine,salle de bain
+bureau,atelier
+école,université
+bibliothèque,musée
+parc,stade
+piscine,plage
+forêt,montagne
+rivière,lac
+désert,glacier
+ville,village
+rue,avenue
+route,chemin
+pont,tunnel
+gare,aéroport
+bus,train
+bateau,yacht
+kayak,ski
+surf,natation
+course,boxe
+judo,danse
+chant,violon
+piano,tambour
+guitare,micro
+télévision,radio
+photo,vidéo
+dessin,peinture
+sculpture,poterie
+vase,bouquet
+arbre,fleur
+fruit,légume
+herbe,champignon
+abeille,papillon
+mouche,araignée
+serpent,grenouille
+tortue,oiseau
+lion,éléphant
+cheval,vache
+mouton,cochon
+singe,koala
+dauphin,baleine
+requin,pieuvre
+étoile,corail
+mont-blanc,everest
+sahara,atacama
+niagara,iguazu
+amazon,rhin
+mississippi,nil
+alpes,pyrénées
+himalaya,andes
+antarctique,arctique
+seychelles,maldives
+bora-bora,tahiti
+venise,florence
+barcelone,lisbonne
+prague,budapest
+vienne,munich
+stockholm,helsinki
+oslo,copenhague
+bruxelles,amsterdam
+zurich,geneve
+istanbul,ankara
+athènes,delphes
+rome,pompéi
+naples,capri
+milan,venise
+paris,versailles
+lyon,marseille
+bordeaux,toulouse
+nantes,rennes
+strasbourg,lille
+montpellier,nice
+cannes,saint-tropez
+new-york,chicago
+los-angeles,san-francisco
+miami,orlando
+las-vegas,phoenix
+houston,dallas
+seattle,portland
+boston,philadelphie
+washington,atlanta
+rio,salvador
+sao-paulo,brasilia
+buenos-aires,montevideo
+santiago,lima
+bogota,quito
+caracas,la-paz
+mexico,guadalajara
+havana,santo-domingo
+kingston,port-au-prince
+panama,belize
+san-jose,managua
+teheran,bagdad
+kabul,islamabad
+delhi,jaipur
+mumbai,kolkata
+bangkok,chiang-mai
+hanoi,ho-chi-minh
+jakarta,bali
+manille,cebu
+singapour,kuala-lumpur
+sydney,brisbane
+melbourne,adelaide
+auckland,wellington
+cape-town,pretoria
+johannesburg,durban
+nairobi,addis-abeba
+cairo,alexandrie
+casablanca,rabat
+alger,tunis
+dakar,abidjan
+lagos,accra
+kinshasa,luanda
+lusaka,harare
+antananarivo,maurice
+seychelles,réunion
+pongebob squarepants,patrick star
+naruto uzumaki,sasuke uchiha
+sakura haruno,kakashi hatake
+son goku,vegeta
+piccolo,krillin
+ash ketchum,brock
+misty,team rocket
+elsa,anna
+olaf,sven
+simba,scar
+mufasa,nala
+woody,buzz lightyear
+jessie,bo peep
+shrek,donkey
+fiona,puss in boots
+harry potter,ron weasley
+hermione granger,albus dumbledore
+voldemort,severus snape
+frodo baggins,samwise gamgee
+gandalf,aragorn
+legolas,gimli
+batman,robin
+joker,harley quinn
+superman,lois lane
+clark kent,lex luthor
+wonder woman,steve trevor
+flash,green lantern
+barry allen,oliver queen
+rick grimes,daryl dixon
+walter white,jesse pinkman
+saul goodman,gus fring
+dexter morgan,rita bennett
+debra morgan,arthur mitchell
+sherlock holmes,john watson
+moriarty,irene adler
+jon snow,daenerys targaryen
+tyrion lannister,cersei lannister
+arya stark,sansa stark
+bran stark,hodor
+chute de l'empire romain,invention de la roue
+première guerre mondiale,création de la NASA
+traité de Versailles,révolution industrielle
+attaque de Pearl Harbor,construction de Stonehenge
+abolition de l'esclavage,création de la Croix-Rouge
+création de l'ONU,bataille de Marathon
+Spoutnik 1,révolution néolithique
+bataille de Stalingrad,invention de la télévision
+Les pyramides,révolution tunisienne
+révolution néolithique,bataille de Trafalgar
+invention de la roue,création de l'État d'Israël
+bataille de Marathon,révolution scientifique
+traité de Westphalie,création de la République italienne
+bataille de Hastings,invention de la dynamite
+invention de la poudre à canon,bataille de la baie des Cochons
+bataille de Verdun,création de la République tchèque
+création de l'OTAN,révolution grecque
+indépendance des États-Unis,bataille de Zama
+bataille de Trafalgar,création de la Banque mondiale
+invention du téléphone,bataille de la mer Noire
+révolution de 1848,création de la République française
+bataille de la Marne,invention de la machine à écrire
+création de la Croix-Rouge,révolution allemande
+bataille de Lépante,création de l'État islamique
+invention de la radio,bataille de la Moskova
+révolution iranienne,création de la République espagnole
+bataille de Midway,invention de la montgolfière
+création de la NASA,bataille de la Lys
+bataille de Gettysburg,révolution portugaise
+invention de la télévision,bataille de la mer Jaune
+révolution mexicaine,création de la République sud-africaine
+bataille de Sébastopol,invention de la machine à vapeur
+création de la République romaine,révolution belge
+bataille de Gergovie,création de la Ligue des Nations
+invention de la pénicilline,bataille de la Nouvelle-Orléans
+révolution haïtienne,création de la République italienne
+bataille de la mer de Corail,invention de la photographie
+création de la Ligue des Nations,bataille de la Moskova
+bataille de Koursk,création de la République française
+invention du cinéma,bataille de la Pyramide
+révolution chinoise,création de la République tchèque
+bataille de l'Atlantique,invention de la machine à coudre
+création de la Banque mondiale,bataille de la Moskova
+bataille de la Nouvelle-Orléans,révolution grecque
+invention de la photographie,bataille de la mer Noire
+révolution tunisienne,création de la République espagnole
+bataille de la baie des Cochons,invention de la locomotive
+création de l'État islamique,bataille de la Moskova
+bataille de Dien Bien Phu,création de la République sud-africaine
+invention de la montgolfière,bataille de la mer Jaune
+révolution scientifique,création de la République tchèque
+bataille de Zama,invention de la machine à vapeur
+création de la République française,bataille de la Moskova
+bataille de la Bérézina,création de la Ligue des Nations
+invention de la machine à écrire,bataille de la mer Noire
+révolution allemande,création de la République italienne
+bataille de la Somme,invention de la dynamite
+création de l'État d'Israël,bataille de la Moskova
+bataille de la mer Noire,création de la République espagnole
+révolution hongroise,création de la République tchèque
+bataille de la Moskova,invention de la machine à coudre
+création de la République italienne,bataille de la mer Noire
+bataille de la Pyramide,création de la République sud-africaine
+révolution portugaise,création de la République tchèque
+bataille de la Lys,invention de la machine à vapeur
+création de la République espagnole,bataille de la Moskova
+bataille de la Marne,création de la Ligue des Nations
+invention de la locomotive,bataille de la mer Noire
+révolution belge,création de la République italienne
+création de la République tchèque,bataille de la Moskova
+bataille de la mer Jaune,création de la République espagnole
+révolution grecque,création de la République tchèque
+création de la République sud-africaine,bataille de la mer Noire
+minecraft,fortnite
+call of duty,battlefield
+league of legends,dota 2
+world of warcraft,final fantasy xiv
+zelda,mario
+pokemon,animal crossing
+skyrim,witcher 3
+cyberpunk 2077,red dead redemption 2
+halo,gears of war
+assassin's creed,far cry
+fifa,pes
+nba 2k,madden nfl
+counter-strike,valorant
+apex legends,overwatch
+fall guys,among us
+stardew valley,terraria
+hollow knight,cuphead
+elden ring,dark souls
+super smash bros,mario kart
+splatoon,arms
+mario,luigi
+link,zelda
+pikachu,charizard
+master chief,cortana
+kratos,atreus
+lara croft,nathan drake
+sonic,mario
+spyro,crash bandicoot
+kirby,meta knight
+ryu,ken
+sub-zero, scorpion
+shepard,garrus
