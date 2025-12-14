@@ -1,7 +1,25 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+
+// Cookie helper functions
+const setCookie = (name: string, value: string, days: number = 365) => {
+  const expires = new Date();
+  expires.setTime(expires.getTime() + days * 24 * 60 * 60 * 1000);
+  document.cookie = `${name}=${value};expires=${expires.toUTCString()};path=/`;
+};
+
+const getCookie = (name: string): string | null => {
+  const nameEQ = name + "=";
+  const ca = document.cookie.split(';');
+  for (let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+};
 
 export default function SetupPage() {
   const router = useRouter();
@@ -9,6 +27,19 @@ export default function SetupPage() {
   const [spyCount, setSpyCount] = useState(1);
   const [includeMrWhite, setIncludeMrWhite] = useState(false);
   const [mrWhiteCount, setMrWhiteCount] = useState(0);
+
+  // Load settings from cookies on mount
+  useEffect(() => {
+    const savedPlayerCount = getCookie('playerCount');
+    const savedSpyCount = getCookie('spyCount');
+    const savedIncludeMrWhite = getCookie('includeMrWhite');
+    const savedMrWhiteCount = getCookie('mrWhiteCount');
+
+    if (savedPlayerCount) setPlayerCount(parseInt(savedPlayerCount));
+    if (savedSpyCount) setSpyCount(parseInt(savedSpyCount));
+    if (savedIncludeMrWhite) setIncludeMrWhite(savedIncludeMrWhite === 'true');
+    if (savedMrWhiteCount) setMrWhiteCount(parseInt(savedMrWhiteCount));
+  }, []);
 
   // Calculate remaining slots for civils
   const getRemainingSlots = () => {
@@ -33,6 +64,12 @@ export default function SetupPage() {
     sessionStorage.setItem('spyCount', spyCount.toString());
     sessionStorage.setItem('includeMrWhite', includeMrWhite.toString());
     sessionStorage.setItem('mrWhiteCount', mrWhiteCount.toString());
+
+    // Save settings to cookies
+    setCookie('playerCount', playerCount.toString());
+    setCookie('spyCount', spyCount.toString());
+    setCookie('includeMrWhite', includeMrWhite.toString());
+    setCookie('mrWhiteCount', mrWhiteCount.toString());
     
     // Redirect to game page
     router.push('/game');
