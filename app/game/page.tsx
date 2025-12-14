@@ -83,7 +83,8 @@ export default function GamePage() {
       setCurrentPlayer(currentPlayer + 1);
       setShowWord(false);
     } else {
-      // Game is ready to play
+      // Save players to sessionStorage and redirect to play page
+      sessionStorage.setItem('players', JSON.stringify(players));
       router.push('/play');
     }
   };
