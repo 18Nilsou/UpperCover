@@ -1,36 +1,36 @@
 pomme,poire
 chat,chien
-café,thé
+cafe,the
 pain,baguette
 football,rugby
 guitare,piano
 soleil,lune
-mer,océan
+mer,ocean
 rouge,rose
 hiver,automne
 voiture,moto
 livre,magazine
 ordinateur,tablette
 chaise,fauteuil
-riz,pâtes
+riz,pates
 fromage,beurre
-avion,hélicoptère
+avion,helicoptere
 tennis,badminton
 lion,tigre
 montagne,colline
 chocolat,cacao
 pizza,burger
-vélo,trottinette
+velo,trottinette
 rose,tulipe
-dentiste,médecin
+dentiste,medecin
 professeur,enseignant
-cinéma,théâtre
-restaurant,café
-hôtel,auberge
+cinema,theatre
+restaurant,cafe
+hotel,auberge
 carotte,navet
 fraise,framboise
 banane,ananas
-orange,clémentine
+orange,clementine
 raisin,cerise
 tomate,poivron
 concombre,courgette
@@ -42,29 +42,26 @@ saumon,thon
 crevette,crabe
 lait,yaourt
 eau,jus
-vin,bière
+vin,biere
 soda,limonade
 short,bermuda
 pull,gilet
 chaussette,collant
 basket,tennis
-botte,chaussure
-casquette,chapeau
-écharpe,foulard
+botte,basket
+echarpe,foulard
 gant,moufle
 pantalon,jean
 chemise,polo
 robe,jupe
-maillot,bikini
-pyjama,nuisette
 sac,valise
 montre,horloge
 bague,collier
 boucle,bracelet
 lunette,monocle
 parapluie,parasol
-clé,cadenas
-porte,fenêtre
+cle,cadenas
+porte,fenetre
 mur,cloison
 toit,plafond
 escalier,ascenseur
@@ -72,24 +69,24 @@ balcon,terrasse
 jardin,cour
 garage,parking
 cave,grenier
-salon,séjour
+salon,sejour
 chambre,dortoir
 cuisine,office
-salle,pièce
+salle,piece
 bureau,cabinet
-école,collège
-université,faculté
-bibliothèque,librairie
-musée,galerie
+ecole,college
+universite,faculte
+bibliotheque,librairie
+musee,galerie
 parc,square
-stade,arène
+stade,arene
 piscine,bassin
-plage,côte
-forêt,bois
-rivière,fleuve
-lac,étang
-désert,dune
-ville,cité
+plage,cote
+foret,bois
+riviere,fleuve
+lac,etang
+desert,dune
+ville,cite
 village,hameau
 rue,avenue
 route,chemin
@@ -97,64 +94,64 @@ pont,viaduc
 tunnel,passage
 gare,station
 port,quai
-aéroport,aérodrome
+aeroport,aerodrome
 bus,car
-train,métro
+train,metro
 taxi,uber
 camion,fourgon
 bateau,navire
 yacht,voilier
-kayak,canoë
+kayak,canoe
 ski,snowboard
 patin,roller
 surf,planche
-natation,plongée
+natation,plongee
 course,sprint
 saut,bond
 lancer,jet
 combat,lutte
-boxe,karaté
+boxe,karate
 judo,taekwondo
 yoga,pilates
 batterie,percussion
 harpe,lyre
 tambour,cymbale
 micro,enceinte
-télévision,écran
+television,ecran
 radio,podcast
 stylo,crayon
 gomme,effaceur
-règle,équerre
+regle,equerre
 compas,rapporteur
 enveloppe,timbre
 lettre,courrier
 poste,messagerie
-téléphone,portable
+telephone,portable
 message,sms
 email,courriel
 photo,image
-vidéo,film
+video,film
 dessin,croquis
 peinture,aquarelle
 sculpture,statue
-poterie,céramique
+poterie,ceramique
 vase,pot
 bouquet,composition
 arbre,arbuste
-fleur,pétale
+fleur,petale
 feuille,branche
 racine,tige
-fruit,légume
+fruit,legume
 graine,noyau
 herbe,gazon
 mousse,lichen
 champignon,truffe
-abeille,guêpe
+abeille,guepe
 papillon,libellule
 fourmi,termite
 mouche,moustique
-araignée,scorpion
-serpent,lézard
+araignee,scorpion
+serpent,lezard
 grenouille,crapaud
 tortue,carapace
 oiseau,volatile
@@ -163,17 +160,17 @@ corbeau,pie
 pigeon,colombe
 canard,oie
 poule,coq
-lapin,lièvre
+lapin,lievre
 souris,rat
-écureuil,tamia
+ecureuil,tamia
 renard,loup
 ours,grizzly
-éléphant,mammouth
-zèbre,âne
+elephant,mammouth
+zebre,ane
 cheval,poney
 vache,taureau
 mouton,brebis
-chèvre,bouc
+chevre,bouc
 cochon,sanglier
 singe,gorille
 koala,panda
@@ -182,28 +179,26 @@ dauphin,orque
 baleine,cachalot
 requin,raie
 pieuvre,calmar
-méduse,anémone
-étoile,oursin
-corail,récif
+meduse,anemone
 algue,varech
 banane,framboise
 orange,mandarine
 fraise,myrtille
 abricot,nectarine
-pêche,brugnon
+peche,brugnon
 cerise,groseille
 ananas,papaye
 mangue,fruit
 citron,lime
 kiwi,melon
 tramway,rer
-fusée,navette
+fusee,navette
 tracteur,moissonneuse
-canapé,sofa
+canape,sofa
 lit,matelas
 armoire,penderie
-bureau,secrétaire
-étagère,bibliothèque
+bureau,secretaire
+etagere,bibliotheque
 tabouret,escabeau
 fauteuil,rocking-chair
 commode,coffre
@@ -213,31 +208,31 @@ orage,tonnerre
 brouillard,brume
 vent,courant
 cyclone,ouragan
-sécheresse,canicule
-grêle,grison
+secheresse,canicule
+grele,grison
 verglas,givre
-napoléon bonaparte,alexandre le grand
-cléopâtre vii,néfertiti
-jules césar,auguste
-jeanne d'arc,marie curie
-louis xiv,louis xvi
-christophe colomb,fernand de magellan
-neil armstrong,youri gagarine
-isaac newton,albert einstein
-sigmund freud,carl jung
+napoleon-bonaparte,alexandre-le-grand
+cleopatre-vii,nefertiti
+jules-cesar,auguste
+jeanne-d'arc,marie-curie
+louis-xiv,louis-xvi
+christophe-colomb,fernand-de-magellan
+neil-armstrong,youri-gagarine
+isaac-newton,albert-einstein
+sigmund-freud,carl-jung
 platon,aristote
 socrate,pythagore
-homère,virgile
-dante alighieri,william shakespeare
-molière,pierre corneille
-voltaire,jean-jacques rousseau
+homere,virgile
+dante-alighieri,william-shakespeare
+moliere,pierre-corneille
+voltaire,jean-jacques-rousseau
 naples,venise
 paris,lyon
 londres,manchester
 berlin,munich
 madrid,barcelone
 rome,milan
-athènes,spartes
+athenes,spartes
 istanbul,ankara
 moscou,saint-petersbourg
 pekin,shanghai
@@ -277,7 +272,7 @@ ikea,conforama
 leroy,merlin
 castorama,brico
 carrefour,leclerc
-auchan,intermarché
+auchan,intermarche
 monoprix,casino
 decathlon,go-sport
 fnac,darty
@@ -287,7 +282,7 @@ tesla,ford
 bmw,audi
 mercedes,volkswagen
 peugeot,renault
-citroën,fiat
+citroen,fiat
 ferrari,lamborghini
 porsche,maserati
 rolls-royce,bentley
@@ -310,56 +305,45 @@ twitter,linkedin
 whatsapp,telegram
 signal,viber
 zoom,skype
-leonardo dicaprio,brad pitt
-meryl streep,julia roberts
-elvis presley,michael jackson
-marilyn monroe,audrey hepburn
-walt disney,steve jobs
-harry potter,hermione granger
-frodo baggins,gandalf
-luke skywalker,darth vader
-sherlock holmes,dr watson
+leonardo-dicaprio,brad-pitt
+elvis-presley,michael-jackson
+walt-disney,steve-jobs
+harry-potter,hermione-granger
+frodo-baggins,gandalf
+luke-skywalker,darth-vader
+sherlock-holmes,dr-watson
 batman,joker
 inception,interstellar
 avatar,titanic
-star wars,star trek
-breaking bad,game of thrones
-friends,how i met your mother
-rick and morty,bojack horseman
-mickey mouse,donald duck
-spongebob squarepants,pikachu
-naruto,son goku
+star-wars,star-trek
+breaking-bad,game-of-thrones
+rick-and-morty,bojack-horseman
+mickey-mouse,donald-duck
+spongebob-squarepants,pikachu
+naruto,son-goku
 coca-cola,pepsi
 bouteille,verre
 assiette,bol
 fourchette,couteau
 chaussure,basket
-chapeau,écharpe
+chapeau,echarpe
 pantalon,chemise
-robe,jupe
 pyjama,peignoir
-bague,collier
-boucle d'oreille,bracelet
-fenêtre,mur
-escalier,ascenseur
-balcon,terrasse
-garage,parking
-cave,grenier
+boucle-d'oreille,bracelet
+fenetre,mur
 salon,chambre
-cuisine,salle de bain
+cuisine,salle-de-bain
 bureau,atelier
-école,université
-bibliothèque,musée
+ecole,universite
+bibliotheque,musee
 parc,stade
 piscine,plage
-forêt,montagne
-rivière,lac
-désert,glacier
+foret,montagne
+riviere,lac
+desert,glacier
 ville,village
-rue,avenue
-route,chemin
 pont,tunnel
-gare,aéroport
+gare,aeroport
 bus,train
 bateau,yacht
 kayak,ski
@@ -369,31 +353,30 @@ judo,danse
 chant,violon
 piano,tambour
 guitare,micro
-télévision,radio
-photo,vidéo
+television,radio
+photo,video
 dessin,peinture
 sculpture,poterie
 vase,bouquet
 arbre,fleur
-fruit,légume
 herbe,champignon
 abeille,papillon
-mouche,araignée
+mouche,araignee
 serpent,grenouille
 tortue,oiseau
-lion,éléphant
+lion,elephant
 cheval,vache
 mouton,cochon
 singe,koala
 dauphin,baleine
 requin,pieuvre
-étoile,corail
+etoile,corail
 mont-blanc,everest
 sahara,atacama
 niagara,iguazu
 amazon,rhin
 mississippi,nil
-alpes,pyrénées
+alpes,pyrenees
 himalaya,andes
 antarctique,arctique
 seychelles,maldives
@@ -405,10 +388,8 @@ vienne,munich
 stockholm,helsinki
 oslo,copenhague
 bruxelles,amsterdam
-zurich,geneve
-istanbul,ankara
-athènes,delphes
-rome,pompéi
+athenes,delphes
+rome,pompei
 naples,capri
 milan,venise
 paris,versailles
@@ -437,7 +418,6 @@ havana,santo-domingo
 kingston,port-au-prince
 panama,belize
 san-jose,managua
-teheran,bagdad
 kabul,islamabad
 delhi,jaipur
 mumbai,kolkata
@@ -460,148 +440,303 @@ lagos,accra
 kinshasa,luanda
 lusaka,harare
 antananarivo,maurice
-seychelles,réunion
-pongebob squarepants,patrick star
-naruto uzumaki,sasuke uchiha
-sakura haruno,kakashi hatake
-son goku,vegeta
+seychelles,reunion
+pongebob-squarepants,patrick-star
+naruto-uzumaki,sasuke-uchiha
+sakura-haruno,kakashi-hatake
+son-goku,vegeta
 piccolo,krillin
-ash ketchum,brock
-misty,team rocket
+ash-ketchum,brock
+misty,team-rocket
 elsa,anna
 olaf,sven
 simba,scar
 mufasa,nala
-woody,buzz lightyear
-jessie,bo peep
+woody,buzz-lightyear
+jessie,bo-peep
 shrek,donkey
-fiona,puss in boots
-harry potter,ron weasley
-hermione granger,albus dumbledore
-voldemort,severus snape
-frodo baggins,samwise gamgee
+fiona,puss-in-boots
+harry-potter,ron-weasley
+hermione-granger,albus-dumbledore
+voldemort,severus-snape
+frodo-baggins,samwise-gamgee
 gandalf,aragorn
 legolas,gimli
 batman,robin
-joker,harley quinn
-superman,lois lane
-clark kent,lex luthor
-wonder woman,steve trevor
-flash,green lantern
-barry allen,oliver queen
-rick grimes,daryl dixon
-walter white,jesse pinkman
-saul goodman,gus fring
-dexter morgan,rita bennett
-debra morgan,arthur mitchell
-sherlock holmes,john watson
-moriarty,irene adler
-jon snow,daenerys targaryen
-tyrion lannister,cersei lannister
-arya stark,sansa stark
-bran stark,hodor
-chute de l'empire romain,invention de la roue
-première guerre mondiale,création de la NASA
-traité de Versailles,révolution industrielle
-attaque de Pearl Harbor,construction de Stonehenge
-abolition de l'esclavage,création de la Croix-Rouge
-création de l'ONU,bataille de Marathon
-Spoutnik 1,révolution néolithique
-bataille de Stalingrad,invention de la télévision
-Les pyramides,révolution tunisienne
-révolution néolithique,bataille de Trafalgar
-invention de la roue,création de l'État d'Israël
-bataille de Marathon,révolution scientifique
-traité de Westphalie,création de la République italienne
-bataille de Hastings,invention de la dynamite
-invention de la poudre à canon,bataille de la baie des Cochons
-bataille de Verdun,création de la République tchèque
-création de l'OTAN,révolution grecque
-indépendance des États-Unis,bataille de Zama
-bataille de Trafalgar,création de la Banque mondiale
-invention du téléphone,bataille de la mer Noire
-révolution de 1848,création de la République française
-bataille de la Marne,invention de la machine à écrire
-création de la Croix-Rouge,révolution allemande
-bataille de Lépante,création de l'État islamique
-invention de la radio,bataille de la Moskova
-révolution iranienne,création de la République espagnole
-bataille de Midway,invention de la montgolfière
-création de la NASA,bataille de la Lys
-bataille de Gettysburg,révolution portugaise
-invention de la télévision,bataille de la mer Jaune
-révolution mexicaine,création de la République sud-africaine
-bataille de Sébastopol,invention de la machine à vapeur
-création de la République romaine,révolution belge
-bataille de Gergovie,création de la Ligue des Nations
-invention de la pénicilline,bataille de la Nouvelle-Orléans
-révolution haïtienne,création de la République italienne
-bataille de la mer de Corail,invention de la photographie
-création de la Ligue des Nations,bataille de la Moskova
-bataille de Koursk,création de la République française
-invention du cinéma,bataille de la Pyramide
-révolution chinoise,création de la République tchèque
-bataille de l'Atlantique,invention de la machine à coudre
-création de la Banque mondiale,bataille de la Moskova
-bataille de la Nouvelle-Orléans,révolution grecque
-invention de la photographie,bataille de la mer Noire
-révolution tunisienne,création de la République espagnole
-bataille de la baie des Cochons,invention de la locomotive
-création de l'État islamique,bataille de la Moskova
-bataille de Dien Bien Phu,création de la République sud-africaine
-invention de la montgolfière,bataille de la mer Jaune
-révolution scientifique,création de la République tchèque
-bataille de Zama,invention de la machine à vapeur
-création de la République française,bataille de la Moskova
-bataille de la Bérézina,création de la Ligue des Nations
-invention de la machine à écrire,bataille de la mer Noire
-révolution allemande,création de la République italienne
-bataille de la Somme,invention de la dynamite
-création de l'État d'Israël,bataille de la Moskova
-bataille de la mer Noire,création de la République espagnole
-révolution hongroise,création de la République tchèque
-bataille de la Moskova,invention de la machine à coudre
-création de la République italienne,bataille de la mer Noire
-bataille de la Pyramide,création de la République sud-africaine
-révolution portugaise,création de la République tchèque
-bataille de la Lys,invention de la machine à vapeur
-création de la République espagnole,bataille de la Moskova
-bataille de la Marne,création de la Ligue des Nations
-invention de la locomotive,bataille de la mer Noire
-révolution belge,création de la République italienne
-création de la République tchèque,bataille de la Moskova
-bataille de la mer Jaune,création de la République espagnole
-révolution grecque,création de la République tchèque
-création de la République sud-africaine,bataille de la mer Noire
-minecraft,fortnite
-call of duty,battlefield
-league of legends,dota 2
-world of warcraft,final fantasy xiv
-zelda,mario
-pokemon,animal crossing
-skyrim,witcher 3
-cyberpunk 2077,red dead redemption 2
-halo,gears of war
-assassin's creed,far cry
-fifa,pes
-nba 2k,madden nfl
-counter-strike,valorant
-apex legends,overwatch
-fall guys,among us
-stardew valley,terraria
-hollow knight,cuphead
-elden ring,dark souls
-super smash bros,mario kart
-splatoon,arms
-mario,luigi
-link,zelda
-pikachu,charizard
-master chief,cortana
-kratos,atreus
-lara croft,nathan drake
-sonic,mario
-spyro,crash bandicoot
-kirby,meta knight
-ryu,ken
-sub-zero, scorpion
-shepard,garrus
+joker,harley-quinn
+superman,lois-lane
+clark-kent,lex-luthor
+wonder-woman,steve-trevor
+flash,green-lantern
+barry-allen,oliver-queen
+rick-grimes,daryl-dixon
+walter-white,jesse-pinkman
+saul-goodman,gus-fring
+dexter-morgan,rita-bennett
+debra-morgan,arthur-mitchell
+sherlock-holmes,john-watson
+moriarty,irene-adler
+jon-snow,daenerys-targaryen
+tyrion-lannister,cersei-lannister
+arya-stark,sansa-stark
+bran-stark,hodor
+ordinateur,clavier
+souris,clavier
+imprimante,scanner
+disque-dur,ssd
+ram,processeur
+carte-graphique,carte-mere
+clavier,souris
+souris,trackpad
+carte-graphique,processeur
+piano,violon
+flute,clarinette
+batterie,guitare
+cymbale,tambour
+microphone,enceinte
+radio,television
+ecran,projecteur
+routeur,modem
+camera,appareil-photo
+smartphone,telephone
+montre,bracelet
+boucles-d'oreilles,bracelet
+valise,sac-a-dos
+chaussures,bottes
+pantalon,short
+chapeau,casquette
+echarpe,gants
+manteau,veste
+chaussettes,collants
+bottes,chaussures
+sandales,tongs
+serviette,peignoir
+savon,shampoing
+brosse-a-dents,dentifrice
+peigne,brosse
+rasoir,tondeuse
+parfum,deodorant
+creme,huile
+maquillage,vernis
+miroir,peigne
+oreiller,couette
+armoire,commode
+fauteuil,canape
+table,chaise
+bureau,tabouret
+lampe,ampoule
+rideaux,stores
+horloge,reveil
+four,plaque-de-cuisson
+micro-ondes,grille-pain
+refrigerateur,congelateur
+lave-vaisselle,evier
+marmite,casserole
+poele,grill
+verre,tasse
+cuillere,spatule
+planche-a-decouper,epluche-legumes
+balai,serpilliere
+aspirateur,balayette
+seau,eponge
+lessive,adoucissant
+fer-a-repasser,table-a-repasser
+machine-a-laver,seche-linge
+pelle,balayette
+seau,torchon
+bus,tramway
+fusee,navette-spatiale
+station-spatiale,telescope
+satellite,sonde
+planete,etoile
+comete,asteroide
+constellation,galaxie
+univers,espace
+vallee,plateau
+ocean,mer
+plage,sable
+prairie,champ
+volcan,cratere
+canyon,gorge
+ile,archipel
+pays,continent
+quartier,rue
+avenue,boulevard
+place,parc
+route,autoroute
+chemin,sentier
+carrefour,rond-point
+feu-tricolore,panneau
+plage,montagne
+paris,londres
+football,basketball
+foret,jungle
+bateau,sous-marin
+neige,pluie
+docteur,infirmier
+musique,danse
+chocolat,vanille
+train,bus
+hopital,clinique
+plante,fleur
+chateau,palais
+lunettes,verres
+telephone,smartphone
+maison,appartement
+jardin,potager
+bicyclette,trottinette
+arbre,foret
+etoile,planete
+glace,sorbet
+gateau,tarte
+camera,photographie
+piano,guitare
+violon,saxophone
+horloge,pendule
+peinture,dessin
+papier,cahier
+feu,braise
+eau,riviere
+nuage,brume
+vent,bourrasque
+tigre,lion
+lapin,cochon
+girafe,zebre
+elephant,rhinoceros
+serpent,cobra
+sapin,erable
+boulangerie,patisserie
+supermarche,marche
+aeroport,gare
+autoroute,boulevard
+camping,tente
+piscine,jacuzzi
+tracteur,pelleteuse
+telecommande,joystick
+lampe,spot
+fusee,satellite
+robot,androide
+bibliotheque,mediatheque
+banque,caisse
+parc,jardin
+cinema,concert
+theatre,opera
+cirque,spectacle
+cactus,palmier
+desert,savane
+jungle,mangrove
+marais,brouillard
+orage,ouragan
+tornade,typhon
+chemise,blouse
+echarpe,bonnet
+gant,mitaines
+bracelet,collier
+bague,anneau
+collier,boucles
+casque,ecouteurs
+medaille,trophee
+pere-noel,renne
+traineau,sapin
+cadeau,guirlande
+boule,etoile
+neige,flocon
+hiver,cheminee
+chocolat-chaud,vin-chaud
+marche-de-noel,calendrier-de-l'avent
+cloche,houx
+lutin,atelier
+jouet,bonnet
+chaussette-de-noel,carte-de-voeux
+pain-d'epices,canne-de-bonbon
+reveillon,festin
+famille,partage
+amour,joie
+chanson-de-noel,carol
+buche,tradition
+foie-gras,saumon-fume
+hiver,plaid
+film-de-noel,magie
+anges,creche
+messe-de-minuit,eglise
+couronne,festivite
+bonhomme-de-neige,patinage
+luge,traineau
+lanterne,emerveillement
+souvenir,espoir
+celebration,reunion
+sapin-artificiel,ornement
+pole-nord,banquise
+ours-polaire,igloo
+halloween,citrouille
+fantome,squelette
+sorciere,balai
+araignee,toile
+cimetiere,tombe
+loup-garou,pleine-lune
+chapeau-pointu,robe-noire
+chat-noir,malediction
+potion-magique,sortilege
+maison-hantee,frisson
+ombre,tenebres
+citrouille-sculptee,lanterne-jack
+sang,griffe
+vampire,chauve-souris
+emmanuel-macron,edouard-philippe
+jean-luc-melenchon,francois-hollande
+nicolas-sarkozy,jacques-chirac
+valery-giscard-d-estaing,georges-pompidou
+charles-de-gaulle,philippe-petain
+jean-castex,manuel-valls
+marion-marechal,marine-le-pen
+bruno-le-maire,olivier-veran
+mission,infiltration
+code,cryptage
+indice,preuve
+suspect,complice
+arme,munition
+planque,cachette
+renseignement,espionnage
+cible,objectif
+operation,strategie
+camouflage,discretion
+micro,ecoute
+camera,filature
+alibi,temoin
+interrogatoire,aveu
+fuite,poursuite
+ruse,manipulation
+reseau,organisation
+contact,informateur
+signal,transmission
+radio,frequence
+message,decodeur
+cle,serrure
+coffre,code
+heure,date
+nom,identite
+passeport,visa
+avion,fusee
+train,quai
+boussole,gps
+montre,chronometre
+fichier,dossier
+cle-usb,disque-dur
+camera,micro
+bombe,detonateur
+fusil,pistolet
+poison,antidote
+seringue,medicament
+malette,document
+valise,bagage
+sac,contenu
+cadenas,cle
+plafond,sol
+escalier,etage
+ascenseur,escalier
+bureau,table
+rideau,cachette
+placard,armoire
+etagere,livre
+fleur,bouquet
+champ,foret
